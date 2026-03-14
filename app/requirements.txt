@@ -1,0 +1,26 @@
+# Core RAG
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-core
+
+# Vector DB
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# PDF Processing
+unstructured[pdf]
+
+# API Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# HTTP client (Ollama health check)
+httpx
+
+# Config
+python-dotenv
